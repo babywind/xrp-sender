@@ -24,8 +24,8 @@ public class Lsqbdz implements Serializable {
 	/**
 	 * 转入金额
 	 */
-	public BigDecimal zrje=new BigDecimal(0);
-	
+	public BigDecimal zrje = new BigDecimal(0);
+
 	/**
 	 * T6012_id
 	 */
