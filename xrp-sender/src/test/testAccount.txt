@@ -1,0 +1,19 @@
+Websockets and Ripple API:
+wss://s.altnet.rippletest.net:51233
+
+JSON-RPC:
+https://s.altnet.rippletest.net:51234
+
+Address:
+rDi9N8wA3ooYyNh5cf9xQt4wJWPQB99KPw
+Secret:
+spvm2fot5KG2bzuCZpDmePjnES3Ea
+Balance:
+10,000 XRP
+
+Address:
+rMW8EK3Hbjx6yup41gPpN2xP8wApPnRguZ
+Secret:
+shyNgNQzVVFzseKyzytS4DXZqWMMN
+Balance:
+10,000 XRP
