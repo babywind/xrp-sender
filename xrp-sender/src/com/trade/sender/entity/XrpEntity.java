@@ -35,5 +35,11 @@ public class XrpEntity implements Serializable{
 	 * 钱包服务器ip
 	 */
 	public String ip;
-	
+
+	@Override
+	public String toString() {
+		return "XrpEntity [r_qbdz=" + r_qbdz + ", r_sy=" + r_sy + ", l_qbdz=" + l_qbdz + ", is=" + is + ", count="
+				+ count + ", ip=" + ip + "]";
+	}
+
 }
